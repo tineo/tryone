@@ -1,0 +1,1 @@
+/home/tineo/tryone/manage.py
